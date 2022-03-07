@@ -25,7 +25,7 @@
  The MBP-Prover/LW-CSP-Prover needs the theorem prover [Isabelle2021](https://isabelle.in.tum.de/).
 
 # Licence
- The MBP-Prover/LW-CSP-Prover is released under the [MIT license](https://en.wikipedia.org/wiki/MIT_License), see [LICENSE.txt](LICENSE.txt).
+ The MBP-Prover/LW-CSP-Prover is released under the [MIT license](https://en.wikipedia.org/wiki/MIT_License), see [LICENSE](LICENSE).
  
 # References
 1. Zhaoqian Zhong and Masato Edahiro, Model-Based Parallelizer for Multi- / Many-Core Processors, 2017-EMB-44, No47, pp.1-6, 2017.
